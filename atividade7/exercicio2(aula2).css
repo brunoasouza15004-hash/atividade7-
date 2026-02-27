@@ -1,0 +1,158 @@
+ #camada1 
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: rgb(255, 166, 0);
+           color: white;
+           width: 1000px;
+           height: 300px;
+           top: 10px;
+           left: 300px;
+           text-align: center;
+           z-index: 1;
+        }
+        #camada2
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(255, 255, 255);
+            width: 700px;
+            height: 50px;
+            top: 110px;
+            left: 430px;
+            text-align: center;
+            z-index: 2;
+        }
+        #camada3
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(0, 0, 0);
+            width: 50px;
+            height: 50px;
+            top: 110px;
+            left: 1130px;
+            text-align: center;
+            z-index: 3;
+        }
+        #camada4
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(255, 255, 255);
+            border: black solid 2px;
+            box-sizing: border-box;
+            width: 130px;
+            height: 35px;
+            top: 350px;
+            left: 430px;
+            text-align: center;
+            z-index: 4;
+        }
+        #camada5
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(255, 255, 255);
+            border: black solid 2px;
+            box-sizing: border-box;
+            width: 130px;
+            height: 35px;
+            top: 350px;
+            left: 630px;
+            text-align: center;
+            z-index: 5;
+        }
+         #camada6
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(255, 255, 255);
+            border: black solid 2px;
+            box-sizing: border-box;
+            width: 130px;
+            height: 35px;
+            top: 350px;
+            left: 830px;
+            text-align: center;
+            z-index: 6;
+        }
+         #camada7
+        {
+            position: absolute; /* componente absoluto que está sobreposto à página */
+            background-color: rgb(255, 255, 255);
+            border: black solid 2px;
+            box-sizing: border-box;
+            width: 130px;
+            height: 35px;
+            top: 350px;
+            left: 1030px;
+            text-align: center;
+            z-index: 7;
+        }
+        #camada8
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: rgb(255, 166, 0);
+           color: white;
+           width: 200px;
+           height: 150px;
+           top: 430px;
+           left: 370px;
+           text-align: center;
+           z-index: 8;
+        }
+         #camada9
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: gray;
+           color: white;
+           width: 200px;
+           height: 150px;
+           top: 430px;
+           left: 590px;
+           text-align: center;
+           z-index: 9;
+        }
+         #camada10
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: aqua;
+           color: white;
+           width: 200px;
+           height: 150px;
+           top: 430px;
+           left: 810px;
+           text-align: center;
+           z-index: 10;
+        }
+         #camada11
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: gray;
+           color: white;
+           width: 200px;
+           height: 320px;
+           top: 430px;
+           left: 1030px;
+           text-align: center;
+           z-index: 11;
+        }
+         #camada12
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: aqua;
+           color: white;
+           width: 200px;
+           height: 150px;
+           top: 600px;
+           left: 370px;
+           text-align: center;
+           z-index: 12;
+  }
+            #camada13
+  {
+           position: absolute; /* componente absoluto que está sobreposto à página */
+           background-color: rgb(255, 166, 0);
+           color: white;
+           width: 420px;
+           height: 150px;
+           top: 600px;
+           left: 590px;
+           text-align: center;
+           z-index: 13;
+  }
